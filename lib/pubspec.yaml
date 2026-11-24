@@ -1,0 +1,8 @@
+name: quiz_seguranca_digital
+description: Quiz de perguntas e respostas sobre seguranca digital.
+version: 1.0.0
+publish_to: 'none'
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dev_dependencies:
+  lints: ^3.0.0
